@@ -115,23 +115,39 @@ Promote career outcomes, job assistance, and upskilling benefits.
 
 Offer EMIs or scholarships for unemployed leads.
 
-# 
+# KPI CARDS USED FOR VARIOUS METRICS
 
 ![Image](https://github.com/user-attachments/assets/1994c633-dd92-4c1a-9304-b01ea8b4fb86)
 
+#Time Trend Analysis of Lead Source vs Total Leads
+
 ![Image](https://github.com/user-attachments/assets/c1bb909a-679c-437f-8256-f28c95d09206)
+
+# Lead Converted by City 
 
 ![Image](https://github.com/user-attachments/assets/c4f86086-7300-4c39-9172-5e553d38df50)
 
+# Lead Conversion by Country, City vs Conversion Ratio
+
 ![Image](https://github.com/user-attachments/assets/9b936f7b-a354-4882-b4a6-b59005cc7f68)
+
+# Table view of Country, City, Lead Origin and Source vs Total Leads 
 
 ![Image](https://github.com/user-attachments/assets/c11bc6a3-c02f-4aae-811d-c9f7695987e6)
 
+# Donut Chart to understand occupations
+
 ![Image](https://github.com/user-attachments/assets/a346332c-b1ce-4830-94a8-084994f582b8)
+
+# Pie Chart to understand Specialisation
 
 ![Image](https://github.com/user-attachments/assets/1c8416b1-680a-4c1f-9e9e-ab5ea91d9914)
 
+# Bar graph to understand last notable activity
+
 ![Image](https://github.com/user-attachments/assets/2da4dd5f-509b-4f0c-a896-66dca5b571cc)
+
+# Final Dashboard
 
 ![Image](https://github.com/user-attachments/assets/ec1878c6-ee88-4c28-bfdd-68966ae32d54)
 
